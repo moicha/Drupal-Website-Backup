@@ -11,7 +11,7 @@ To import this website to your local Acquia Dev Desktop2, perform:
   4. Configure settings.php file for server environment.
   5. execute Update.php script
 
-For more details please read the Acquia documentstation here:
+For more details please read the Acquia documentation here:
 
 https://docs.acquia.com/dev-desktop/start/import/
 
