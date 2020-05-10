@@ -10,3 +10,7 @@ To import this website to your local Acquia Dev Desktop2, perform:
   3. Copy sites folder of this back up to the to sites folder of the newly created drupal website.  
   4. Configure settings.php file for server environment.
   5. execute Update.php script
+
+For more details please read the Acquia documentstation here:
+https://docs.acquia.com/dev-desktop/start/import/
+https://docs.acquia.com/dev-desktop/start/db/
