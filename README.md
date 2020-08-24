@@ -2,7 +2,8 @@
 Frontend and Database Backups
 
 The avesta.zip files contains the PHP front end.
-The CyberForensics-2020-05-03T10-56-28.mysql.gz is the backup of MySql backend
+
+The CyberForensics-2020-05-03T10-56-28.mysql.gz is the backup of MySql backend.
 
 To import this website to your local Acquia Dev Desktop2, perform:
   1. Create a new Drupal site (with new db and codebase).
